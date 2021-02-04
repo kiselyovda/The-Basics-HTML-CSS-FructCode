@@ -1,0 +1,17 @@
+.body {
+  font-style: 20px;
+}
+
+.film_block img {
+  width: 100%;
+}
+
+.film_block p {
+  font-style: 15px;
+}
+
+h1 {
+  font-style: 100%;
+  background-color: white;
+  color: white;
+}
