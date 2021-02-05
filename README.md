@@ -29,4 +29,4 @@
 
 [CSS](FructCode%20%D0%9A%D1%83%D1%80%D1%81%20HTML%20CSS/CSS.md)
 
-[Сертификат HTML_CSS.pdf](FructCode%20%D0%9A%D1%83%D1%80%D1%81%20HTML%20CSS/_HTML_CSS.pdf)
+[Сертификат HTML/CSS.pdf](FructCode%20%D0%9A%D1%83%D1%80%D1%81%20HTML%20CSS/_HTML_CSS.pdf)
